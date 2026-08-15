@@ -1,6 +1,6 @@
 # Awesome-Identity-Resolution-Platform
 
-# Top Identity Resolution Platform Tools Ecosystem
+## Top Identity Resolution Platform Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Customer Identity Graphs, Entity Resolution, Deterministic & Probabilistic Matching, Cross-Device Identity, Unified Profiles & Record Linkage*
 **Last updated: August 2026**
